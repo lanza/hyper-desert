@@ -1,0 +1,19 @@
+{
+  "name": "hyper-desert",
+  "version": "1.3.0",
+  "description": "desert",
+  "license": "MIT",
+  "repository": "lanza/hyper-desert",
+  "author": {
+    "name": "Nathan Lanza",
+    "email": "nathan@lanza.io",
+    "url": "lanza.io"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ]
+}
